@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ========================= -->
+    <!-- MAIN APP THEME -->
+    <!-- ========================= -->
+    <style name="Theme.Cooklog" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+
+    <!-- Primary Colors -->
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryContainer">@color/purple_light</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background</item>
+
+        <!-- Text -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+    </style>
+
+    <!-- ========================= -->
+    <!-- SPLASH SCREEN THEME -->
+    <!-- ========================= -->
+    <style name="Theme.Cooklog.Splash" parent="Theme.SplashScreen">
+
+        <!-- Splash background -->
+        <item name="windowSplashScreenBackground">@drawable/bg_splash</item>
+
+        <!-- Center logo -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_cooklog_logo</item>
+
+        <!-- Switch to main theme -->
+        <item name="postSplashScreenTheme">@style/Theme.Cooklog</item>
+
+    </style>
+
+</resources>

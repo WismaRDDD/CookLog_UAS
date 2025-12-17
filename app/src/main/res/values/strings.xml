@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Cooklog</string>
+
+    <!-- Search -->
+    <string name="search_hint">Cari resep atau tag</string>
+    <string name="search_not_found">Resep tidak ditemukan</string>
+
+    <!-- Recipe Detail -->
+    <string name="label_ingredients">Bahan-bahan</string>
+    <string name="label_steps">Langkah-langkah</string>
+    <string name="label_time">Waktu Masak</string>
+    <string name="label_difficulty">Tingkat Kesulitan</string>
+
+    <!-- Difficulty -->
+    <string name="difficulty_easy">Mudah</string>
+    <string name="difficulty_medium">Sedang</string>
+    <string name="difficulty_hard">Sulit</string>
+
+    <!-- Help / Tips -->
+    <string name="help_title">Tips Penggunaan</string>
+    <string name="help_message">
+        Gunakan kolom pencarian untuk menemukan resep berdasarkan nama atau tag.
+        Pilih tag untuk melihat resep yang relevan.
+    </string>
+    <string name="help_close">Mengerti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

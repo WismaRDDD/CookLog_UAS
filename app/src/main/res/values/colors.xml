@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Brand Color -->
+    <color name="purple">#6A1B9A</color>
+
+    <!-- Secondary / Accent -->
+    <color name="purple_light">#9C4DCC</color>
+
+    <!-- Background -->
+    <color name="background">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+</resources>
